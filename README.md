@@ -1,2 +1,0 @@
-# sancha
-Belajar
